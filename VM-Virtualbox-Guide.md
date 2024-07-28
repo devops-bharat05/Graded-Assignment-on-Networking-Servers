@@ -1,4 +1,4 @@
-# Introductiom
+# Introduction
 This guide will help you to guide to install VM VirtualBox
 
 ### Step 1: Install Oracle VirtualBox
