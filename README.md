@@ -1,7 +1,9 @@
 # Graded-Assignment-on-Networking-Servers
-Here's a step-by-step guide to deploy a simple website on localhost using Apache2 and create a DNS entry for it as 'awesomeweb':
-##Introduction:
+
+## Introduction:
 In this repository we have deployed a website on localhost using either apache2 or Nginx. Created a DNS name for this website as ‘awesomeweb’.
+
+Here's a step-by-step guide to deploy a simple website on localhost using Apache2 and create a DNS entry for it as 'awesomeweb':
 
 ### Step 1: Install Apache2
 
