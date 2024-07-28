@@ -42,7 +42,7 @@ sudo nano /etc/apache2/sites-available/awesomeweb.conf
 Add the following content to the file:
 
 ```apache
-<VirtualHost *:80>
+<VirtualHost *:8080>
     ServerName awesomeweb
     DocumentRoot /var/www/awesomeweb
     <Directory /var/www/awesomeweb>
@@ -116,7 +116,7 @@ Add the following content:
 
 ```nginx
 server {
-    listen 80;
+    listen 8080;
     server_name awesomeweb;
     root /var/www/awesomeweb;
     index index.html;
